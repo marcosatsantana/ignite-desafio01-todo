@@ -2,7 +2,7 @@ import React from 'react';
 import { Text, TouchableOpacity, View } from 'react-native';
 import { styles } from './styles';
 import { MaterialCommunityIcons, Ionicons } from '@expo/vector-icons'
-import Colors from '../Constants/Colors';
+import Colors from '../../Constants/Colors';
 
 type PropsItem = {
     item: {
