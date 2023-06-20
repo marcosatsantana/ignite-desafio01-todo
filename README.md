@@ -49,7 +49,7 @@ npx expo start
 
 
 5. Com o Metro Bundler em execução, utilize um emulador ou conecte seu dispositivo físico para visualizar o aplicativo.
-6. 
+
 
 ## Conclusão
 
